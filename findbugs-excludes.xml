@@ -1,0 +1,7 @@
+<FindBugsFilter>
+    <!--
+    <Match>
+        <Bug pattern="WEAK_TRUST_MANAGER"/>
+    </Match>
+    -->
+</FindBugsFilter>
